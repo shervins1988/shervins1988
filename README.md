@@ -1,4 +1,5 @@
-# 👋I’m Ninja Dev. I fix bugs so quietly you won’t even notice.
+# 👋I’m Ninja Dev. 
+I fix bugs so quietly you won’t even notice.
 But I really love is making people laugh and creating great memories. Let’s live with a smile.
 
 ### 🚀 DevOps Engineer | Cloud Enthusiast | Automation Advocate
